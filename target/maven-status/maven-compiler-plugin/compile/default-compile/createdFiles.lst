@@ -1,0 +1,8 @@
+com\repasopoo\concesionaria\Concesionaria.class
+com\repasopoo\concesionaria\logica\ControladorLogica.class
+com\repasopoo\concesionaria\igu\CargarDatos$1.class
+com\repasopoo\concesionaria\igu\Principal.class
+com\repasopoo\concesionaria\logica\Auto.class
+com\repasopoo\concesionaria\igu\CargarDatos.class
+com\repasopoo\concesionaria\persistencia\ControladorPersistencia.class
+com\repasopoo\concesionaria\igu\Principal$1.class
